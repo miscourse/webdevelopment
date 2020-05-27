@@ -5,4 +5,4 @@
 |Chen Jiajing|201810135047|member|
 |Huang Jiaqi|201810135006|member|
 |Gu Qingyi|201810135003|member|
-|Xia Jinxing|201810100070|member|
+|Xia Jinxin|201810100070|member|
